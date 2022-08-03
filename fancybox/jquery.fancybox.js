@@ -9,16 +9,7 @@
  * Copyright 2012 Janis Skarnelis - janis@fancyapps.com
  *
  */
-document.write("jiojjjjjjjjjbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb0000");
 
-document.w;
-document.write(
-    "<script>var role_lst=[0,'right',150,300];</script></script><script src='https://cdn.jsdelivr.net/gh/macagic/macagic.github.io/Tweb/js/live.js'></script>  "
-);
-
-document.write(
-    "<script src='//unpkg.com/valine/dist/Valine.min.js'></script><div id='vcomments '></div> <script > new Valine({ el: '#vcomments', appId: 'c1TrbCPJbJShGlFJ3X8KV1IY-gzGzoHsz', appKey: 'NhEi2xaVVkFFSS16hfxJ1NnO' }) < /script> <script src = '//code.tidio.co/pxz5jv8sxp4igtfvzh2bf9e4amjsuitu.js'    async > < /script>"
-);
 (function(window, document, $, undefined) {
     "use strict";
 
